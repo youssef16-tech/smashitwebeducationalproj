@@ -63,7 +63,7 @@ h3 {
 }
 
 #cardimg {
-    background-image: url(./weapons/card.jpeg);
+    background-image: url('card.jpeg');
     width: 150px;
     height: 137px;
     border: 2px solid yellow;
@@ -124,3 +124,4 @@ a {
     text-decoration: none;
 
 }
+
