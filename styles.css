@@ -21,7 +21,7 @@ h3 {
 
 
 .header {
-    background-image: url('./weapons/header.jpeg');
+    background-image: url('header.jpeg');
 
     width: 400px;
     height: 400px;
@@ -122,4 +122,5 @@ button {
 
 a {
     text-decoration: none;
+
 }
